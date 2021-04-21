@@ -1,0 +1,10 @@
+ 0	 106	39	     tap	mod5	type5	f1
+ 4	 658	 3	  boiler	mod2	type3	f1
+ 7	 921	28	  shower	mod1	type4	f1
+ 8	 974	34	    bath	mod1	type3	f1
+
+ 0	 106	39	     tap	mod5	type5	f1
+ 4	 658	 3	  boiler	mod2	type3	f1
+ 7	 921	28	  shower	mod1	type4	f1
+ 8	 974	34	    bath	mod1	type3	f1
+
